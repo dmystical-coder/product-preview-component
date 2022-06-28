@@ -104,6 +104,9 @@ small {
   display: flex;
   justify-content: center;
 }
+.btn:hover{
+  background-color: hsl(158, 36%, 22%);
+}
 .btn img {
   margin-right: 10px;
 }
