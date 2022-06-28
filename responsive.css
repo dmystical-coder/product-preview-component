@@ -1,0 +1,20 @@
+@media screen and (min-width: 768px){
+   .card{
+    display: flex;
+    width: 500px;
+    height: 400px;
+    margin-top: 10px;
+   }
+   .hero-img{
+    background-image: url(./images/image-product-desktop.jpg);
+    width: 100%;
+    background-size: cover;
+    height: 400px;
+    border-bottom-left-radius: 8px;
+    border-top-right-radius: 0%;
+   }
+   .card .content {
+    margin: 25px 20px 30px 20px;
+    width: 45%;
+  }
+}
